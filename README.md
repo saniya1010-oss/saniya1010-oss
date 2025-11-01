@@ -24,15 +24,24 @@
 
 ###
 
-<h3 align="left">🛠 Tools that I've explored so far:</h3>
+<h3 align="left">🛠 Tools:</h3>
 
 <div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <!-- Pandas -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="pandas logo" />
   <img width="12" />
 
   <!-- Numpy -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+
+  <!-- Scikitlearn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+height='40' alt= "scikitlearn logo"/>
   <img width="12" />
 
 
