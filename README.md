@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <img height="400" src="https://i.pinimg.com/originals/75/5f/6b/755f6bd55c9f1bf1da7c0f04de9d4375.gif" />
 </div>
 
 ###
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/saniyaschem" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
   </a>
@@ -11,16 +11,16 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
 ### 👨‍💻 About Me
 
- - I'm a Chemistry major and I was introduced to ML during my 2nd academic year
- - So, Now I'm building small projects, trying to enter the field of computational chemistry, cheminformatics, bioinformatics:test_tube:
+ - I'm a Chemistry major and I was introduced to ML during my 2nd academic year😅
+ - So, Now I'm building small projects, trying to enter the field of computational chemistry, cheminformatics, bioinformatics :test_tube:
  - Or might completely switch to AI/ML
- - I also love to travel, sketch portraites, edit videos, talk to people etc., Click on the LinkedIn badge to connect!:smile:
+ - I also love to travel, sketch portraites, edit videos, talk to people etc., Click on the LinkedIn badge to connect! :smile:
 
 ###
 
@@ -44,4 +44,12 @@
 height='40' alt= "scikitlearn logo"/>
   <img width="12" />
 
+  <!-- Pytorch -->
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
+height="40" alt="pytorch logo"/>
+  <img width="12" />
 
+  <!-- Streamlit -->
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/Streamlit_logo_primary_colormark_darktext.svg"
+height="40" alt="streamlit logo" />
+  <img width="12" />
