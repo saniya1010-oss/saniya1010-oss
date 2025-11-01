@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWthbzJiMHd3c3FwN3dwNTM1NmRqNWRmb3U1aWlrZGlwMnQwZG95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif](https://i.pinimg.com/originals/75/5f/6b/755f6bd55c9f1bf1da7c0f04de9d4375.gif)" />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWthbzJiMHd3c3FwN3dwNTM1NmRqNWRmb3U1aWlrZGlwMnQwZG95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif](https://i.pinimg.com/originals/75/5f/6b/755f6bd55c9f1bf1da7c0f04de9d4375.gif" />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
- 
+ - Exploring Machine Learning
 
 
 
@@ -31,36 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
 
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-
-  <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-</div>
 
 
