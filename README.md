@@ -9,7 +9,6 @@
   </a>
 </div>
 
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
@@ -18,13 +17,14 @@
 
 ### 👨‍💻 About Me
 
- - Exploring Machine Learning
-
-
+ - I'm a Chemistry major and I was introduced to ML during my 2nd academic year
+ - So, Now I'm building small projects, trying to enter the field of computational chemistry, cheminformatics, bioinformatics:test_tube:
+ - Or might completely switch to AI/ML
+ - I also love to travel, sketch portraites, edit videos, talk to people etc., Click on the LinkedIn badge to connect!:smile:
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Tools that I've explored so far:</h3>
 
 <div align="left">
   <!-- Python -->
@@ -32,7 +32,7 @@
   <img width="12" />
 
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://logowik.com/content/uploads/images/numpy9166.logowik.com.webp)" height="40" alt="numpy logo" />
   <img width="12" />
 
 
