@@ -32,7 +32,7 @@
   <img width="12" />
 
   <!-- Numpy -->
-  <img src="https://logowik.com/content/uploads/images/numpy9166.logowik.com.webp" height="40" alt="numpy logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="numpy logo" />
   <img width="12" />
 
 
