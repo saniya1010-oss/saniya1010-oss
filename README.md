@@ -44,11 +44,6 @@
 height='40' alt= "scikitlearn logo"/>
   <img width="12" />
 
-  <!-- Pytorch -->
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
-height="40" alt="pytorch logo"/>
-  <img width="12" />
-
   <!-- Streamlit -->
   <img src = "https://upload.wikimedia.org/wikipedia/commons/0/00/Streamlit_logo_primary_colormark_darktext.svg"
 height="40" alt="streamlit logo" />
