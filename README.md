@@ -20,7 +20,6 @@
  - I'm a Chemistry major and I was introduced to ML during my 2nd academic year😅
  - So, Now I'm building small projects, trying to enter the field of computational chemistry, cheminformatics, bioinformatics :test_tube:
  - Or might completely switch to AI/ML
- - And yeah I do use ChatGPT a lot but atleast I try to understand my projects 🤥
  - I also love to travel, sketch portraites, edit videos, talk to people etc., Click on the LinkedIn badge to connect! :smile:
 
 ###
